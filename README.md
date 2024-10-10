@@ -13,7 +13,7 @@
 
 - Baixe os arquivos do repositório, Abra a IDE (VScode ou Pycharm) com a biblioteca do Pygames instalada, abra a pasta onde salvou os arquivos baixados anteriormente com a IDE, inicie o arquivo “.Py” da pasta e aperte “Run”. 
 
-# Organização do Código:
+## Organização do Código:
 
 - Class Game: Classe principal onde cria o Loop do jogo e chama todas as funções necessárias para o funcionamento do código. 
 
